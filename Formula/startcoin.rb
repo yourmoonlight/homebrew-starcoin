@@ -1,4 +1,4 @@
-class Startest < Formula
+class Starcoin < Formula
     desc "Test Homebrew Tabs"
     homepage "https://www.starcoin.org/"
     url "https://github.com/starcoinorg/starcoin/releases/download/v1.11.7-rc/starcoin-macos-latest.zip"
