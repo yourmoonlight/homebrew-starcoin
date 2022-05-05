@@ -7,5 +7,9 @@ class Starcoin < Formula
 
     def install
       bin.install "starcoin"
+      bin.install "mpm"
+      bin.install "starcoin_db_exporter"
+      bin.install "starcoin_generator"
+      bin.install "starcoin_miner"
     end
   end
